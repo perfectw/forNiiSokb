@@ -7,20 +7,30 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D8C8B60DFAAF66118DB10F50 /* Pods_forNiiSokb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43CB7196E3CDF5C9E5B91CE6 /* Pods_forNiiSokb.framework */; };
+		ED5A711A1C74F2900098003B /* noimg.png in Resources */ = {isa = PBXBuildFile; fileRef = ED5A71151C74F2900098003B /* noimg.png */; };
+		ED5A711B1C74F2900098003B /* RSImagesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5A71161C74F2900098003B /* RSImagesVC.swift */; };
+		ED5A711C1C74F2900098003B /* RSStructure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5A71171C74F2900098003B /* RSStructure.swift */; };
+		ED5A711D1C74F2900098003B /* RSTitlesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5A71181C74F2900098003B /* RSTitlesVC.swift */; };
+		ED5A711E1C74F2900098003B /* wait.gif in Resources */ = {isa = PBXBuildFile; fileRef = ED5A71191C74F2900098003B /* wait.gif */; };
+		ED5A71211C74F2950098003B /* RSMain.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED5A711F1C74F2950098003B /* RSMain.storyboard */; };
 		ED8E58AB1C74F0C400EF2105 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8E58AA1C74F0C400EF2105 /* AppDelegate.swift */; };
-		ED8E58AD1C74F0C400EF2105 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED8E58AC1C74F0C400EF2105 /* ViewController.swift */; };
-		ED8E58B01C74F0C400EF2105 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED8E58AE1C74F0C400EF2105 /* Main.storyboard */; };
 		ED8E58B21C74F0C400EF2105 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED8E58B11C74F0C400EF2105 /* Assets.xcassets */; };
-		ED8E58B51C74F0C400EF2105 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED8E58B31C74F0C400EF2105 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0189CA0249EC9FD1718889D3 /* Pods-forNiiSokb.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-forNiiSokb.debug.xcconfig"; path = "Pods/Target Support Files/Pods-forNiiSokb/Pods-forNiiSokb.debug.xcconfig"; sourceTree = "<group>"; };
+		0DD8F7EC48AB8676D7F3B89C /* Pods-forNiiSokb.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-forNiiSokb.release.xcconfig"; path = "Pods/Target Support Files/Pods-forNiiSokb/Pods-forNiiSokb.release.xcconfig"; sourceTree = "<group>"; };
+		43CB7196E3CDF5C9E5B91CE6 /* Pods_forNiiSokb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_forNiiSokb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED5A71151C74F2900098003B /* noimg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noimg.png; sourceTree = "<group>"; };
+		ED5A71161C74F2900098003B /* RSImagesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RSImagesVC.swift; sourceTree = "<group>"; };
+		ED5A71171C74F2900098003B /* RSStructure.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RSStructure.swift; sourceTree = "<group>"; };
+		ED5A71181C74F2900098003B /* RSTitlesVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RSTitlesVC.swift; sourceTree = "<group>"; };
+		ED5A71191C74F2900098003B /* wait.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = wait.gif; sourceTree = "<group>"; };
+		ED5A71201C74F2950098003B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/RSMain.storyboard; sourceTree = "<group>"; };
 		ED8E58A71C74F0C300EF2105 /* forNiiSokb.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = forNiiSokb.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED8E58AA1C74F0C400EF2105 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ED8E58AC1C74F0C400EF2105 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		ED8E58AF1C74F0C400EF2105 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ED8E58B11C74F0C400EF2105 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		ED8E58B41C74F0C400EF2105 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ED8E58B61C74F0C400EF2105 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -29,17 +39,46 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D8C8B60DFAAF66118DB10F50 /* Pods_forNiiSokb.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1972DFE44EBDAB5262B7EE78 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				43CB7196E3CDF5C9E5B91CE6 /* Pods_forNiiSokb.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		DAD0D036665FAA5E939E1CE7 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				0189CA0249EC9FD1718889D3 /* Pods-forNiiSokb.debug.xcconfig */,
+				0DD8F7EC48AB8676D7F3B89C /* Pods-forNiiSokb.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		ED5A71221C74F2A10098003B /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				ED5A71151C74F2900098003B /* noimg.png */,
+				ED5A71191C74F2900098003B /* wait.gif */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		ED8E589E1C74F0C300EF2105 = {
 			isa = PBXGroup;
 			children = (
 				ED8E58A91C74F0C400EF2105 /* forNiiSokb */,
 				ED8E58A81C74F0C300EF2105 /* Products */,
+				DAD0D036665FAA5E939E1CE7 /* Pods */,
+				1972DFE44EBDAB5262B7EE78 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -54,12 +93,14 @@
 		ED8E58A91C74F0C400EF2105 /* forNiiSokb */ = {
 			isa = PBXGroup;
 			children = (
+				ED5A711F1C74F2950098003B /* RSMain.storyboard */,
+				ED5A71181C74F2900098003B /* RSTitlesVC.swift */,
+				ED5A71161C74F2900098003B /* RSImagesVC.swift */,
+				ED5A71171C74F2900098003B /* RSStructure.swift */,
 				ED8E58AA1C74F0C400EF2105 /* AppDelegate.swift */,
-				ED8E58AC1C74F0C400EF2105 /* ViewController.swift */,
-				ED8E58AE1C74F0C400EF2105 /* Main.storyboard */,
 				ED8E58B11C74F0C400EF2105 /* Assets.xcassets */,
-				ED8E58B31C74F0C400EF2105 /* LaunchScreen.storyboard */,
 				ED8E58B61C74F0C400EF2105 /* Info.plist */,
+				ED5A71221C74F2A10098003B /* Images */,
 			);
 			path = forNiiSokb;
 			sourceTree = "<group>";
@@ -71,9 +112,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = ED8E58B91C74F0C400EF2105 /* Build configuration list for PBXNativeTarget "forNiiSokb" */;
 			buildPhases = (
+				B5DE4CCAE857612E5555F8ED /* Check Pods Manifest.lock */,
 				ED8E58A31C74F0C300EF2105 /* Sources */,
 				ED8E58A41C74F0C300EF2105 /* Frameworks */,
 				ED8E58A51C74F0C300EF2105 /* Resources */,
+				EBC280C7CBAE73B16DD1D263 /* Embed Pods Frameworks */,
+				5FC32B8DEB2B42DFCD2E33BF /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -122,41 +166,84 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED8E58B51C74F0C400EF2105 /* LaunchScreen.storyboard in Resources */,
+				ED5A711A1C74F2900098003B /* noimg.png in Resources */,
+				ED5A711E1C74F2900098003B /* wait.gif in Resources */,
+				ED5A71211C74F2950098003B /* RSMain.storyboard in Resources */,
 				ED8E58B21C74F0C400EF2105 /* Assets.xcassets in Resources */,
-				ED8E58B01C74F0C400EF2105 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		5FC32B8DEB2B42DFCD2E33BF /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-forNiiSokb/Pods-forNiiSokb-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		B5DE4CCAE857612E5555F8ED /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		EBC280C7CBAE73B16DD1D263 /* Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-forNiiSokb/Pods-forNiiSokb-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		ED8E58A31C74F0C300EF2105 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED8E58AD1C74F0C400EF2105 /* ViewController.swift in Sources */,
+				ED5A711C1C74F2900098003B /* RSStructure.swift in Sources */,
 				ED8E58AB1C74F0C400EF2105 /* AppDelegate.swift in Sources */,
+				ED5A711D1C74F2900098003B /* RSTitlesVC.swift in Sources */,
+				ED5A711B1C74F2900098003B /* RSImagesVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		ED8E58AE1C74F0C400EF2105 /* Main.storyboard */ = {
+		ED5A711F1C74F2950098003B /* RSMain.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				ED8E58AF1C74F0C400EF2105 /* Base */,
+				ED5A71201C74F2950098003B /* Base */,
 			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		ED8E58B31C74F0C400EF2105 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				ED8E58B41C74F0C400EF2105 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
+			name = RSMain.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -247,6 +334,7 @@
 		};
 		ED8E58BA1C74F0C400EF2105 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0189CA0249EC9FD1718889D3 /* Pods-forNiiSokb.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = forNiiSokb/Info.plist;
@@ -258,6 +346,7 @@
 		};
 		ED8E58BB1C74F0C400EF2105 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 0DD8F7EC48AB8676D7F3B89C /* Pods-forNiiSokb.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = forNiiSokb/Info.plist;
@@ -286,6 +375,7 @@
 				ED8E58BB1C74F0C400EF2105 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
